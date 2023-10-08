@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695989582 source:c:\users\123\desktop\3 курс\Уч\Денис\ponters\main.cpp
+	<iostream>
+	<windows.h>
+	<cstring>
+
